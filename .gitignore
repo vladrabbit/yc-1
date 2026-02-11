@@ -1,0 +1,4 @@
+key.json
+terraform.tfvars
+.terraform.lock.hcl
+.terraform/
