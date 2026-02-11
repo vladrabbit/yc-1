@@ -42,10 +42,10 @@
 
 4. Конфигурационные файлы для terraform
 
-[nat.tf](https://github.com/vladrabbit/yc-1/blob/main/nat.tf)
-[network.tf](https://github.com/vladrabbit/yc-1/blob/main/network.tf)
-[outputs.tf](https://github.com/vladrabbit/yc-1/blob/main/outputs.tf)
-[private_vm.tf](https://github.com/vladrabbit/yc-1/blob/main/private_vm.tf)
-[providers.tf](https://github.com/vladrabbit/yc-1/blob/main/providers.tf)
-[public_vm.tf](https://github.com/vladrabbit/yc-1/blob/main/public_vm.tf)
-[variables.tf](https://github.com/vladrabbit/yc-1/blob/main/variables.tf)
+- [nat.tf](https://github.com/vladrabbit/yc-1/blob/main/nat.tf)
+- [network.tf](https://github.com/vladrabbit/yc-1/blob/main/network.tf)
+- [outputs.tf](https://github.com/vladrabbit/yc-1/blob/main/outputs.tf)
+- [private_vm.tf](https://github.com/vladrabbit/yc-1/blob/main/private_vm.tf)
+- [providers.tf](https://github.com/vladrabbit/yc-1/blob/main/providers.tf)
+- [public_vm.tf](https://github.com/vladrabbit/yc-1/blob/main/public_vm.tf)
+- [variables.tf](https://github.com/vladrabbit/yc-1/blob/main/variables.tf)
